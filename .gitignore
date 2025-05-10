@@ -1,4 +1,9 @@
 node_modules
 dist
+cp/
 .env 
+.env.* 
 .vercel
+
+.vscode/
+

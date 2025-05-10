@@ -9,8 +9,8 @@ export type TStudent = {
   role: 'student' | 'instructor' | 'admin';
   isActive: 'active' | 'blocked';
   isDeleted: boolean;
-  createdAt: Date;
-  updatedAt: Date;
+  createdAt?: Date;
+  updatedAt?: Date;
   deletedAt?: Date | null;
 };
 
