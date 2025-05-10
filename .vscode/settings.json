@@ -1,0 +1,7 @@
+{
+    "a-file-icon-vscode.arrowTheme": "arrow",
+    "editor.cursorBlinking": "expand",
+    "editor.fontSize": 24,
+    "editor.fontVariations": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
